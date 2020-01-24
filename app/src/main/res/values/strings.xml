@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FinaluriProject</string>
+    <string name="activity_login">იმეილი</string>
+    <string name="activity_main">პაროლი</string>
+</resources>
